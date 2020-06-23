@@ -1,3 +1,7 @@
 # My app
 
-React JS
+React JS Test Project
+
+npm start
+git commit -m ""
+git push origin master
